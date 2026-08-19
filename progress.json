@@ -1,0 +1,36 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787136768.433399,
+    "completed_at": 1787136769.804495,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787138591.59242,
+    "completed_at": 1787138594.855286,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787138682.687494,
+    "completed_at": 1787138684.165063,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787136456.27599,
+    "completed_at": 1787136457.7775,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  }
+]
