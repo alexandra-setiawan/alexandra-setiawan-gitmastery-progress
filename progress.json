@@ -214,5 +214,14 @@
       "You still have uncommitted changes. Commit them first on the appropriate branch first!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787669047.195069,
+    "completed_at": 1787669050.849838,
+    "comments": [
+      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
+    ],
+    "status": "Incomplete"
   }
 ]
