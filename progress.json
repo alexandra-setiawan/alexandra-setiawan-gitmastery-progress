@@ -205,32 +205,5 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787668987.376326,
-    "completed_at": 1787668990.889116,
-    "comments": [
-      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787669047.195069,
-    "completed_at": 1787669050.849838,
-    "comments": [
-      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787669153.312404,
-    "completed_at": 1787669156.597746,
-    "comments": [
-      "You do not have 2 commits on the bug-fix branch"
-    ],
-    "status": "Incomplete"
   }
 ]
